@@ -1,0 +1,42 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+body{
+    background-color: rgb(179, 182, 135);
+    margin-bottom: 60px; /* Same as Footer Height */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.background1{
+    background-color: rgb(179, 182, 135);
+    font-family: 'Faster One', cursive;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(17, 124, 173);
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+
+.background2{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.02);
+    font-family: 'Faster One', cursive;
+    color:  rgba(0, 0, 0, 0.171);
+    margin: 0px;
+    padding: 0px;
+    font-size: x-large;
+    border-left: black 50px;
+
+    
+   
+}
+
+
+
+
+
+
